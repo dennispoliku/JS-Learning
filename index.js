@@ -1,5 +1,5 @@
-let num1 = 12
-let num2 = 5
+let num1 = 0
+let num2 = 0
 let cleared = "Clear"
 let cleared2 = "Clear"
 
@@ -29,7 +29,7 @@ function add3() {
 }
 
 function clear1() {
-  num1 = 12
+  num1 = 0
   num1El.textContent = num1
 }
 
@@ -52,6 +52,6 @@ function add3a() {
 }
 
 function clear2() {
-  num2 = 5
+  num2 = 0
   num2El.textContent = num2
 }
