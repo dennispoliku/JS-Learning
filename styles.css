@@ -1,0 +1,12 @@
+body{
+  margin: 0;
+  background-color: #1B244A;
+}
+
+.container{
+  display: flex;
+  justify-content: space-between;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
