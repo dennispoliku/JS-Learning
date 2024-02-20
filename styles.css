@@ -5,8 +5,26 @@ body{
 
 .container{
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
+  text-align: center;
+  flex-wrap: wrap;
+  gap: 15rem;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 5rem;
+  color: #EEEEEE;
+}
+
+h2{
+  color: #F94F6D;
+}
+
+h2{
+  background-color: black;
+  padding: 100px;
+}
+
+button{
+  font-size: 100px;
 }
 
 
